@@ -11,7 +11,5 @@
     <p>
         <a href="https://profile-summary-for-github.com/user/bashmohandes-ahmed" target="_blank">
            
-        </a>
-    </p>
 </body>
 </html>
