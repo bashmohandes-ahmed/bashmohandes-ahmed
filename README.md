@@ -37,7 +37,7 @@
       <li><strong>Agile Delivery & Team Collaboration:</strong> Proven leadership in Agile/Scrum environments; partnered cross-functionally with developers, QA, product managers, and SREs using tools like Jira, Confluence, Slack, and Miro.</li>
       <li><strong>Toolchain Mastery:</strong> Deep hands-on experience with: Docker, Helm, Terraform, GitHub Actions, Jenkins, ArgoCD, ELK Stack, Prometheus, Ansible, Vault, SonarQube, AWS CLI, and more.</li>
     </ul>
-    <p>📌 <strong>Note:</strong> These skills align with the top DevOps roles at leading U.S. tech companies like Amazon, Google, Microsoft, and fast-scaling startups hiring globally through the <strong>H-1B sponsorship</strong> program.</p>
+  
   </div>
 
   <div class="section">
