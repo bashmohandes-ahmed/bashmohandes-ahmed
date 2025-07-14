@@ -17,70 +17,6 @@
       margin: 0;
       padding: 20px;
     }
-
-    h1, h2 {
-      margin-bottom: 20px;
-    }
-
-    .loader {
-      width: 300px;
-      height: 20px;
-      background-color: #111;
-      overflow: hidden;
-      position: relative;
-      border: 1px solid #00ff00;
-      margin-bottom: 30px;
-    }
-
-    .bar {
-      width: 30px;
-      height: 100%;
-      background-color: #00ff00;
-      position: absolute;
-      left: 0;
-      animation: loading 1s linear infinite;
-    }
-
-    @keyframes loading {
-      0% { left: -30px; }
-      100% { left: 100%; }
-    }
-
-    img {
-      border: 1px solid #00ff00;
-      border-radius: 8px;
-      margin: 20px 0;
-      max-width: 100%;
-    }
-
-    a {
-      color: #00ff00;
-      font-size: 16px;
-      text-decoration: underline;
-    }
-
-    .section {
-      max-width: 900px;
-      margin-top: 40px;
-      text-align: left;
-    }
-
-    .section ul {
-      list-style-type: square;
-      padding-left: 20px;
-    }
-
-    .section h2 {
-      font-size: 24px;
-      border-bottom: 1px solid #00ff00;
-      padding-bottom: 10px;
-      margin-bottom: 15px;
-    }
-
-    .section li {
-      margin-bottom: 10px;
-      line-height: 1.6;
-    }
   </style>
 </head>
 <body>
@@ -99,7 +35,6 @@
     </a>
   </p>
 
-  <!-- DevOps Skills Section -->
   <div class="section">
     <h2>🚀 DevOps Engineering Expertise</h2>
     <ul>
@@ -119,7 +54,6 @@
     <p>📌 <strong>Note:</strong> These skills align with the top DevOps roles at leading U.S. tech companies like Amazon, Google, Microsoft, and fast-scaling startups hiring globally through the <strong>H-1B sponsorship</strong> program.</p>
   </div>
 
-  <!-- Certifications Section -->
   <div class="section">
     <h2>🎓 Professional Certifications</h2>
     <ul>
